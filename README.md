@@ -28,3 +28,6 @@ Target Cluster
 - Cluster 4 presents an interesting opportunity to market to the customers for sales event on popular items.
 
 ![image](https://user-images.githubusercontent.com/78631693/236912483-5a1fcecb-9bdf-4efb-8bc5-38a47631fb6e.png)
+
+![image](https://user-images.githubusercontent.com/78631693/236912931-eec3a0d7-68c5-4355-8c18-3b6cabf4e1a8.png)
+
