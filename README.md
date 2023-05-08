@@ -1,7 +1,7 @@
 # Segment Shopping Customers
 - My boss wanted me to identify the most important shopping groups based on income, age, and the mall shopping score.
 - He wants the ideal number of groups with a label for each
-Problem: 
+- Problem: 
 understanding the target customers for the marketing team to plan a strategy
 
 # Objective Market Segmentation
