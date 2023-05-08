@@ -21,7 +21,8 @@ understanding the target customers for the marketing team to plan a strategy
 
 # Analysis
 Target Cluster
--Target group would be cluster 1 which has a high spending score and high income
+
+- Target group would be cluster 1 which has a high spending score and high income
 - 54% of cluster 2 shoppers are women. 
 - Should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster
 - Cluster 4 presents an interesting opportunity to market to the customers for sales event on popular items.
