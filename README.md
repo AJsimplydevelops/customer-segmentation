@@ -15,7 +15,7 @@ understanding the target customers for the marketing team to plan a strategy
 - Data Visualization 
 
 # Tools Used 
-- Python
+- Python: using file main.ipynb
 - Jupyter Noterbook
 - PowerPoint
 
